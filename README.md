@@ -1,0 +1,1 @@
+# termux-powerlevel10k
